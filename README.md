@@ -1,27 +1,33 @@
-# [Jinja Template](https://github.com/app-generator/jinja-template)
+# Jinja Volt Dashboard
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
+- UI Kit: **Volt Dashboard** (Free Version) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
-- [LIVE Demo](https://theme-jinja2.appseed.us/) - starter in action
-- [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
+- [Jinja Volt Dashboard Demo](jinja-volt-dashboard.appseed-srv1.com) - starter in action
+- More [Jinja Templates](https://appseed.us/jinja-template) - provided by AppSeed
 
 <br />
 
-## UI Kit - [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap)
+## [Volt Dashboard]()
 
-*Vendor Notes* - Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.
-All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on. Only some neumorphic components that are included are timelines, profile cards, pricing cards, call to action sections and many more.
+Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS.
+Volt is built using the latest version of Bootstrap 5 and because jQuery is no longer required as a dependency, Volt has been built using only Vanilla JS.
+
+**100+ Components**
+There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on. 
+
+**11 Example Pages**
+Volt brings 11 example pages including an overview, sign in, sign up, transactions page and many more.
 
 <br />
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja Volt Dashboard - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
 
 <br />
 
@@ -29,8 +35,8 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-volt-dashboard.git
+$ cd jinja-volt-dashboard
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -119,8 +125,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-volt-dashboard.git
+$ cd jinja-volt-dashboard
 ```
 
 > Start the app in Docker
@@ -145,8 +151,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-volt-dashboard.git
+$ cd jinja-volt-dashboard
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
@@ -217,4 +223,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+Jinja Volt Dashboard - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
