@@ -27,7 +27,7 @@ Volt brings 11 example pages including an overview, sign in, sign up, transactio
 
 <br />
 
-![Jinja Volt Dashboard - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja Volt Dashboard - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-volt-dashboard/master/media/jinja-volt-dashboard-intro.gif)
 
 <br />
 
