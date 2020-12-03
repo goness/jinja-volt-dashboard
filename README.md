@@ -9,7 +9,7 @@
 
 > Links
 
-- [Jinja Volt Dashboard Demo](jinja-volt-dashboard.appseed-srv1.com) - starter in action
+- [Jinja Volt Dashboard Demo](https://jinja-volt-dashboard.appseed-srv1.com) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) - provided by AppSeed
 
 <br />
