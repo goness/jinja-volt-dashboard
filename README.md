@@ -1,6 +1,10 @@
 # [Jinja Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard)
 
-> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+Open-Source **Jinja Template** coded as a simple Flask app on top of **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)** (free version), a modern Bootstrap dashboard design. 
+
+<br />
+
+> Features
 
 - UI Kit: **Volt Dashboard** (Free Version) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
