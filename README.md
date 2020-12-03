@@ -1,4 +1,4 @@
-# Jinja Volt Dashboard
+# [Jinja Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -9,12 +9,13 @@
 
 > Links
 
+- [Jinja Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard) - product page
 - [Jinja Volt Dashboard Demo](https://jinja-volt-dashboard.appseed-srv1.com) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) - provided by AppSeed
 
 <br />
 
-## [Volt Dashboard]()
+## Volt Dashboard
 
 Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS.
 Volt is built using the latest version of Bootstrap 5 and because jQuery is no longer required as a dependency, Volt has been built using only Vanilla JS.
