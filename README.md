@@ -11,6 +11,8 @@ Open-Source **Jinja Template** coded as a simple Flask app on top of **[Volt Das
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
 - [Jinja Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard) - product page
