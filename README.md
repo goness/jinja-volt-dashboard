@@ -230,4 +230,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-Jinja Volt Dashboard - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
